@@ -1,3 +1,4 @@
 this is my bio
 i'm trying to learn how to use git 
 i think i'm getting the hang of it
+this is another entry today
